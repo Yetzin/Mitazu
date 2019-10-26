@@ -7,3 +7,5 @@ Este proyecto web está echo con:
  - PHP 7
 
 Usa MySQL, iconos de icomoon.io y también hace uso de la biblioteca JQuery.
+-----------------------------------------------------------------------------
+Photo by <a id="un_pic" href="https://unsplash.com/@essentialiving" target="_blank">Essentialiving</a> on <a id="un_pic" href="https://unsplash.com" target="_blank">Unsplash</a>
