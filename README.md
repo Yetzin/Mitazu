@@ -1,5 +1,5 @@
 # Mitazu
-Agenda en línea
+Agenda en línea, simple y páctica.
 
 Este proyecto web está echo con:
 -----------------------------------------------------------------------------
