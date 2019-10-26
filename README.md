@@ -7,7 +7,7 @@ Este proyecto web está echo con:
  - CSS
  - PHP 7
 
-Usa MySQL, iconos de icomoon.io y también hace uso de la biblioteca JQuery.
+Usa mariadb, iconos de icomoon.io y también hace uso de la biblioteca JQuery.
 
 Imagen de fondo por
 -----------------------------------------------------------------------------
