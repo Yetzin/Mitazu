@@ -300,6 +300,8 @@ function elegI(opc){
 	opcEdit = opc;
 	$("#opc_imprt").css("display","");
 }
+
+//	Función encargada para la validación y creación de los usuarios.
 function acept(type){
 	$("#contenedor_carga").css("display","flex");
 	if(type == 1){
