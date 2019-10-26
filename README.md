@@ -6,4 +6,4 @@ Este proyecto web está echo con:
  - CSS
  - PHP 7
 
-Usa MySQL y también la biblioteca JQuery 3.3.1.
+Usa MySQL y también la biblioteca JQuery.
