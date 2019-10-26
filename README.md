@@ -6,4 +6,4 @@ Este proyecto web está echo con:
  - CSS
  - PHP 7
 
-Usa MySQL y también la biblioteca JQuery.
+Usa MySQL, iconos de icomoon.io y también hace uso de la biblioteca JQuery.
