@@ -13,5 +13,5 @@ Imagen de fondo por cortesía de <a id="un_pic" href="https://unsplash.com/@esse
 
 Instrucciones para el funcionamiento
 -----------------------------------------------------------------------------
-Para el acceso a la base de datos es necesario agregar los datos en los respectivos campos de la variable array $sqlAcces en el archivo:
- - /libs/creaVar.php
+ - Para el acceso a la base de datos es necesario agregar los datos en los respectivos campos de la variable array $sqlAcces en el archivo <b>/libs/creaVar.php</b>
+ - La estructura de las tablas de la base de datos se encuentra en el archivo <b>estructuraDB.sql</b>, el cual puede importarlo con ayuda de las herramientas phpMyAdmin o Adminer en caso de que cuente con alguna de estas.
