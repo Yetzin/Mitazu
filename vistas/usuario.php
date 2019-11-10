@@ -210,7 +210,7 @@
 				<p class="msg_text">Puedes agregar tus notas o apuntes de manera intuitiva.</p>
 			</div>
 			<div class="div_n">
-				<a class="enl_ini" href="/instrucciones"><b>Click aquí para ir >></b></a>
+				<a class="enl_ini" href="instrucciones/"><b>Click aquí para ir >></b></a>
 			</div>
 		</div>
 	</div>
@@ -223,7 +223,7 @@
 				<p class="msg_text">Puedes realizar una consulta o bien reportar un error.</p>
 			</div>
 			<div class="div_n">
-				<a class="enl_ini" href="/ayuda"><b>Click aquí para ir >></b></a>
+				<a class="enl_ini" href="ayuda/"><b>Click aquí para ir >></b></a>
 			</div>
 		</div>
 	</div>
