@@ -331,7 +331,7 @@ $ver_libs = "3.10";
 			if(!$usuario['existe']){
 				echo '
 				<footer class="pie_pag">
-					<div style="float: left;"><a href="/uso" class="_pol_ckie"><b>Política de privacidad y uso de cookies</b></a></div>
+					<div style="float: left;"><a href="uso/" class="_pol_ckie"><b>Política de privacidad y uso de cookies</b></a></div>
 					<br>
 					<hr>
 					<br>
