@@ -1,0 +1,28 @@
+{
+  "name": "mitazu",
+  "version": "1.0.0",
+  "description": "Agenda Online",
+  "main": "resources/js/app.js",
+  "scripts": {
+    "dev": "npm run development",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "npm run production",
+    "production": "mix --production"
+  },
+  "devDependencies": {
+    "axios": "^0.21",
+    "autoprefixer": "^10.2.5",
+    "laravel-mix": "^6.0.6",
+    "lodash": "^4.17.19",
+    "postcss": "^8.1.14",
+    "tailwindcss": "^2.1.2",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.9.6",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "author": "Yetzín",
+  "license": "ISC"
+}
