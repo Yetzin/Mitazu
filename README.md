@@ -3,8 +3,8 @@ Agenda en línea, simple y páctica.
 
 Este proyecto web está echo con:
 -----------------------------------------------------------------------------
- - JavaScript
- - CSS
+ - Vue js
+ - Tailwind CSS
  - PHP 7
 
 Usa mariadb o MySQL, iconos de icomoon.io y también hace uso de la biblioteca JQuery.
