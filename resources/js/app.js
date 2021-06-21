@@ -2,6 +2,8 @@
 
 window.Vue = require('vue').default;
 
+Vue.component('navegacion', require('./components/navegacion').default);
+
 Vue.directive('click-outside', {
     bind: function(el, binding, vnode) {
         this.event = function(event) {
